@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: blue;
+}
+
+button {
+    cursor: pointer;
+}
+
+.for-ul {
+    text-decoration: line-through;
+}
+
+.edit-btn {
+    display: none;
+}
+
+h5 {
+    color: red;
+}
